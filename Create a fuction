@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+void my_fuc(){
+    
+    cout<<"Hello world! ";
+    
+};
+int main() {
+    my_fuc();
+
+    return 0;
+}
